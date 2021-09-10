@@ -1,0 +1,6 @@
+{
+    "HOST":{
+        "port": 5008
+    },
+    "path":"/media/pi/1725-A3F2/db/database.sqlite3"
+}
