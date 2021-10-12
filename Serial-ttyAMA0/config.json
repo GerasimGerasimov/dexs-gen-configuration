@@ -3,7 +3,7 @@
         "port": 5000
     },
     "COM":{
-        "port":"/dev/ttyAMA0",
+        "port":"/dev/ttyS3",
         "settings": {
               "baudRate": 115200,
               "dataBits": 8,
